@@ -1,20 +1,14 @@
-Tabii ki, işte projenizin başlığı ile başlayan bir README örneği:
+# New Job Starting Project
+# Project Description
+This project includes a Python application that simulates the daily tasks of a software developer starting a new job. The project begins with introducing your personal information, followed by creating a shopping list and making purchases within a budget. It also includes a Rock-Paper-Scissors game and allows you to track the sales personnel's income.
 
-# Yeni İş Başlangıcı Projesi
+# Project Steps
+Personal Information: At the beginning of the job, assign your personal information to variables.
 
-## Proje Açıklaması
+Shopping List: Create a shopping list as requested by your employer, including mandatory and optional items.
 
-Bu proje, yeni bir işe başlayan bir yazılım geliştiricinin günlük görevlerini simüle eden bir Python uygulamasını içerir. Proje, kişisel bilgilerinizi tanıtmaktan başlar, ardından bir alışveriş listesi oluşturup bütçe ile alışveriş yapmanıza izin verir. Ayrıca bir Taş-Kağıt-Makas oyunu içerir ve satış personelinin gelirini izlemenizi sağlar.
+Shopping and Budget Check: Assign a budget limit and create a price table with the price of each item. Then, shop, generate a bill, and check the budget.
 
-## Proje Adımları
+Rock-Paper-Scissors Game: Create a Rock-Paper-Scissors game for a welcome party at your workplace.
 
-1. Kişisel Bilgiler: İşe başlarken kişisel bilgilerinizi değişkenlere atayın.
-
-2. Alışveriş Listesi:  İşvereninizin istediği alışveriş listesini oluşturun, zorunlu ve isteğe bağlı öğeleri içerir.
-
-3. Alışveriş ve Bütçe Kontrolü: Bir bütçe sınırlaması atayın ve her öğenin fiyatını içeren bir fiyat tablosu hazırlayın. Ardından alışveriş yapın, fatura oluşturun ve bütçeyi kontrol edin.
-
-4. Taş-Kağıt-Makas Oyunu: İşyerinizde düzenlenen bir karşılama partisi için Taş-Kağıt-Makas oyunu oluşturun.
-
-5. Satış Personeli Geliri İzleme: Çalışanların gelirini izlemek için bir sistem oluşturun.
-
+Sales Personnel Income Tracking: Create a system to track the income of employees.
